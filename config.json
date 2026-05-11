@@ -77,6 +77,25 @@
           "type": "txt"
         }
       ]
+    },
+    {
+      "id": "library-checkout-tracker",
+      "title": "Library Checkout Tracker",
+      "description": "Build a FastAPI app with SQLite-backed CRUD for a small library system.",
+      "path": "assignments/library-checkout-tracker",
+      "dueDate": "2026-05-18",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        },
+        {
+          "name": "Requirements File",
+          "file": "requirements.txt",
+          "type": "txt"
+        }
+      ]
     }
   ]
 }
